@@ -133,7 +133,7 @@ body {
     display: none;
 }
 
-.rotacionado {
+.rotated {
     transform: rotate(180deg);
 }
 
